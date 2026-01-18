@@ -1,0 +1,15 @@
+DATA CLEANING REPORT
+====================
+
+Spot rows after cleaning: 104595
+Futures rows after cleaning: 105196
+Options rows after cleaning: 182594
+
+Cleaning steps performed:
+- Unified 5-minute master timeline
+- Forward-filled OHLC prices
+- Removed extreme return outliers (Z > 5)
+- Forward-filled futures open interest
+- Removed invalid option IV values
+- Dynamically recalculated ATM strikes
+- Retained ATM ±2 strikes only
