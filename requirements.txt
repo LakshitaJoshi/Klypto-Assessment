@@ -1,0 +1,13 @@
+pandas
+numpy
+matplotlib
+scikit-learn
+seaborn
+jupyter
+ipykernel
+py_vollib
+scipy
+hmmlearn
+scikit-learn
+xgboost
+tensorflow
