@@ -1,0 +1,4 @@
+Strategy,Total PnL
+Baseline,6731.228837150185
+XGBoost Filtered,1025.349636339488
+LSTM Filtered,636.8225798809108
